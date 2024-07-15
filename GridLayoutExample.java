@@ -3,7 +3,7 @@ import java.awt.GridLayout;
 
 public class GridLayoutExample {
     public static void main(String[] args) {
-        JFrame frame = new JFrame("BORDER LAYOUT");
+        JFrame frame = new JFrame("GRID LAYOUT");
 
         JButton b1 = new JButton("B1");
         JButton b2 = new JButton("B2");
